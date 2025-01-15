@@ -260,7 +260,7 @@ GameObject:
   - component: {fileID: 309414856}
   - component: {fileID: 309414855}
   m_Layer: 0
-  m_Name: platform
+  m_Name: Cliff Edge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -391,7 +391,7 @@ GameObject:
   - component: {fileID: 416239339}
   - component: {fileID: 416239338}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Barra
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -654,7 +654,7 @@ GameObject:
   - component: {fileID: 764036857}
   - component: {fileID: 764036860}
   m_Layer: 0
-  m_Name: Bro
+  m_Name: Marshmallow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -866,7 +866,7 @@ GameObject:
   - component: {fileID: 1553064214}
   - component: {fileID: 1553064213}
   m_Layer: 0
-  m_Name: platform (1)
+  m_Name: Start Trigger
   m_TagString: Start
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

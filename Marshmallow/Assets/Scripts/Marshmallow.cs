@@ -60,7 +60,9 @@ public class Marshmallow : MonoBehaviour
         {
             Debug.Log("miao");
             isInLvl = true;
-            rb.gravityScale = 0;
+            //rb.gravityScale = 0;
+            rb.isKinematic = true;
+            rb.velocity = new Vector2 (rb.velocity.x, 0);
             rb.constraints = RigidbodyConstraints2D.FreezeRotation;
         }
     }
